@@ -15,6 +15,7 @@
     <img height="180cm" style="padding: 3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-bits&theme=tokyonight">
 
 </div>
+<br>
 <div id="linguagens_framework" style="
     display: inline-flex;">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

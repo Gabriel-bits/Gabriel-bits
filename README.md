@@ -21,12 +21,12 @@
     border: #E4E2E2 solid 0.5mm;
     background-color: #1A1B27; 
     ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" style="width: 5%; padding: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" style="width: 5%; padding: 10px;">
     <h4 style="align-self: center; color: #70A4FC; font-family: Arial;">-</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width: 5%; padding: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width: 5%; padding: 10px;">
     <h4 style="align-self: center; color: #70A4FC; font-family: Arial;">-</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" style="width: 5%; padding: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" style="width: 5%; padding: 10px;">
     <h4 style="align-self: center; color: #70A4FC; font-family: Arial;">-</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css" style="width: 5%; padding: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css" style="width: 5%; padding: 10px;">
 
 </div>
